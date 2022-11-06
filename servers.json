@@ -1,0 +1,26 @@
+[
+    {
+        "id": "satu",
+        "name": "Server TCP VPN ITALY",
+        "tags":[
+            "ssh"
+        ]
+    },
+    {
+        "id": "dua",
+        "name": "Server dua",
+        "tags":[
+            "ssh",
+            "vpn"
+        ]
+    },
+    {
+        "id": "satu",
+        "name": "Server tiga",
+        "tags":[
+            "ssh",
+            "vpn",
+            "dropbear"
+        ]
+    }
+]
